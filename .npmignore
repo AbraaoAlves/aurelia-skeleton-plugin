@@ -1,0 +1,11 @@
+aurelia_project
+sample
+.idea
+.vscode
+
+index.html
+karma.conf.js
+
+tsconfig.*
+typings.json
+tslint.json

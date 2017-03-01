@@ -1,0 +1,11 @@
+{
+  "name": "build",
+  "description": "Builds and processes all plugin assets.",
+  "flags": [
+    {
+      "name": "env",
+      "description": "Sets the build environment.",
+      "type": "string"
+    }
+  ]
+}
